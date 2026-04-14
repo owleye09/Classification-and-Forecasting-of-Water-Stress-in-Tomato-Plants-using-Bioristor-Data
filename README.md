@@ -1,0 +1,2 @@
+# Classification-and-Forecasting-of-Water-Stress-in-Tomato-Plants-using-Bioristor-Data
+This study predicts water stress in tomato plants using real-time barrister sensor data and AI models. Decision Trees and Random Forest classified stress statuses, while recurrent neural networks (RNNs) forecasted future stress. The results demonstrate that AI and sensor data can optimize irrigation and enhance sustainable agriculture.
